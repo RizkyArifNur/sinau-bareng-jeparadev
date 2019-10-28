@@ -1,0 +1,15 @@
+{
+  "name": "simple-bot",
+  "version": "1.0.0",
+  "description": "nanana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rizky Arif Nur Choir",
+  "license": "ISC",
+  "dependencies": {
+    "dbot-js": "^1.0.2",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
